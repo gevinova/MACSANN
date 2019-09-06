@@ -30,3 +30,5 @@ This is a python implementation of Memetic algorithm with crossover to search ar
  
 - See the complete example in 'boston-example.py'
 
+#Paper
+https://predictori.com/macsann/paper.pdf
