@@ -1,6 +1,6 @@
 # MACSANN
 
-This is a python implementation of Memetic algorithm with crossover to search architecture of nerual network (MACSANN). The objective of the algorith is to find an architecture on an ANN that could solve a given problem.
+This is a python implementation of Memetic algorithm with crossover to search architecture of neural network (MACSANN). The objective of the algorithm is to find an architecture of an ANN that could solve a given problem.
 
 # How to use
 
@@ -30,3 +30,5 @@ This is a python implementation of Memetic algorithm with crossover to search ar
  
 - See the complete example in 'boston-example.py'
 
+#Paper
+https://predictori.com/macsann/paper.pdf
